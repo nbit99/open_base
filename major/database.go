@@ -2,7 +2,7 @@ package major
 
 import (
 	"fmt"
-	"github.com/blocktree/go-openw-server/open_base/model"
+	"github.com/nbit99/open_base/model"
 	"github.com/godaddy-x/jorm/amqp"
 	"github.com/godaddy-x/jorm/cache/redis"
 	"github.com/godaddy-x/jorm/consul"

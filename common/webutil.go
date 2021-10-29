@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	"github.com/blocktree/go-openw-server/open_base/model"
+	"github.com/nbit99/open_base/model"
 	"github.com/blocktree/openwallet/v2/openwallet"
 	"github.com/blocktree/openwallet/v2/owtp"
 	"github.com/godaddy-x/jorm/consul"

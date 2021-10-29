@@ -1,4 +1,4 @@
-module github.com/blocktree/go-openw-server/open_base
+module github.com/nbit99/open_base
 
 go 1.12
 
