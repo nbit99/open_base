@@ -1,7 +1,7 @@
 package model
 
 import (
-	"github.com/blocktree/openwallet/v2/openwallet"
+	"github.com/nbit99/openwallet/v2/openwallet"
 )
 
 // 智能合约

@@ -1,7 +1,7 @@
 package webutil
 
 import (
-	"github.com/blocktree/openwallet/v2/openwallet"
+	"github.com/nbit99/openwallet/v2/openwallet"
 	"github.com/godaddy-x/jorm/log"
 	"github.com/godaddy-x/jorm/util"
 	"strings"

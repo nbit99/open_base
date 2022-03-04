@@ -1,6 +1,6 @@
 package model
 
-import "github.com/blocktree/openwallet/v2/openwallet"
+import "github.com/nbit99/openwallet/v2/openwallet"
 
 // 交易订单日志
 type OwTradeLog struct {

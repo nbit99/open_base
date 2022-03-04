@@ -1,10 +1,10 @@
 package model
 
 import (
-	"github.com/blocktree/openwallet/v2/common"
-	"github.com/blocktree/openwallet/v2/openwallet"
-	"github.com/blocktree/openwallet/v2/crypto"
-	owkeychain "github.com/blocktree/go-owcdrivers/owkeychain"
+	"github.com/nbit99/openwallet/v2/common"
+	"github.com/nbit99/openwallet/v2/openwallet"
+	"github.com/nbit99/openwallet/v2/crypto"
+	owkeychain "github.com/nbit99/go-owcdrivers/owkeychain"
 )
 
 // 资产账户
